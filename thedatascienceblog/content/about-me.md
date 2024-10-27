@@ -2,7 +2,6 @@
 date = 2024-10-27
 title = 'About Me'
 layout = 'about'
-menu = 'main'
 +++
 
 

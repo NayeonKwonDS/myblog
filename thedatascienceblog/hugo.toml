@@ -1,4 +1,4 @@
-baseURL = 'https://nayeonkwonds.github.io'
+bseURL = 'https://nayeonkwonds.github.io'
 languageCode = 'en-us'
 title = 'Nayeon’s Data Science Blog'
 theme = 'typo'
@@ -30,7 +30,7 @@ homeCollectionTitle = 'Latest Posts'
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 10  # Adjust based on how many posts you want to show per page
+paginationSize = 5  # Adjust based on how many posts you want to show per page
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
@@ -69,7 +69,7 @@ url = "/portfolio/my-project/"
 
 [[params.menu]]
 name = "About"
-url = "/about/about-me/"
+url = "/about-me/"
 
 # Syntax highlight on code blocks
 [markup]

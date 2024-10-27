@@ -1,6 +1,8 @@
 +++
 date = 2024-10-27
 title = 'Portfolio'
+layout = "portfolio"
+menu = []
 +++
 ### Graduate Research (Sungkyunkwan University)
 - **Causal Effect of Urban Parks on Children's Happiness**  
