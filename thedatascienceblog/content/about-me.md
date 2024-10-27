@@ -1,9 +1,8 @@
 +++
-date = 2024-10-27
-title = 'About Me'
-layout = 'about'
+title = 'About'
+hideBackToTop = true
+hidePagination = true
 +++
-
 
 Welcome to my personal website! I am Nayeon, a data scientist with a passion for building meaningful insights through data.
 

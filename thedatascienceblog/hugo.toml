@@ -1,4 +1,4 @@
-bseURL = 'https://nayeonkwonds.github.io'
+baseURL = 'https://nayeonkwonds.github.io'
 languageCode = 'en-us'
 title = 'Nayeon’s Data Science Blog'
 theme = 'typo'
@@ -61,15 +61,15 @@ url = "/"
 
 [[params.menu]]
 name = "Posts"
-url = "/posts"
-
-[[params.menu]]
-name = "Portfolio"
-url = "/portfolio/my-project/"
+url = "/posts/"
 
 [[params.menu]]
 name = "About"
 url = "/about-me/"
+
+[[params.menu]]
+name = "Portfolio"
+url = "/my-project/"
 
 # Syntax highlight on code blocks
 [markup]
