@@ -56,20 +56,20 @@ url = "https://drive.google.com/file/d/1O7jQq29fKi9X-IpVFS-K18K3v-bL0svz/view?us
 
 # Main menu pages
 [[params.menu]]
-name = "home"
+name = "Home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
+name = "Posts"
 url = "/posts"
 
 [[params.menu]]
 name = "Portfolio"
-url = "/Portfolio"
+url = "/portfolio/my-project/"
 
 [[params.menu]]
-name = "about"
-url = "/about"
+name = "About"
+url = "/about/about-me/"
 
 # Syntax highlight on code blocks
 [markup]
